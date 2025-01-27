@@ -1,0 +1,40 @@
+
+        body{
+            background-color: white;
+        }
+        h2 {
+            color:firebrick;
+        }
+        h3 {
+            color: firebrick;
+        }
+        u {
+            color: blue;
+        }
+        hr {
+            border-style: dotted none none;
+            border-color: grey;
+            border-width: 5px;
+            width: 80%;
+        }
+        th {
+            color:sienna;
+        }
+        b {
+            color: sienna;
+        }
+        a {
+            color: blue;
+        }
+        a:hover {
+                color: red;
+        }               
+        img {
+            height: 150px;
+        }
+    footer {
+  text-align: center;
+  padding: 5px;
+  background-color: #abbaba;
+  color: #000;
+}
